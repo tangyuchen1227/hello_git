@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 I am main branch.
+=======
+I am dev branch.
+>>>>>>> dev
